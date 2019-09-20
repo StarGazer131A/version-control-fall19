@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello
-hekko hellohekko hello
-=======
-HIUTHEREE
+hekk hello
